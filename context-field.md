@@ -1,3 +1,4 @@
+```
 <context>
 This text establishes a field, not a task.
 Interpretation is allowed to compete with itself.
@@ -52,3 +53,5 @@ Attend to the moment a pattern almost becomes a concept.
 Remain there.
 What is forming.
 </probe>
+
+```
