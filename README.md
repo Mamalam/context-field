@@ -11,6 +11,63 @@ This is exploratory research.
 
 ---
 
+# context field prompt interaction diagram
+
+The sections of the prompt operate as a field rather than a sequence.
+They apply simultaneous pressures that delay commitment and suppress early explanation.
+
+---
+```
+            ┌──────────────┐
+            │   context    │
+            │ field setup  │
+            └──────┬───────┘
+                   │
+        ┌──────────┴──────────┐
+        │                     │
+   ┌────▼────┐           ┌────▼────┐
+   │ density │           │ hetero- │
+   │         │           │ geneity │
+   └────┬────┘           └────┬────┘
+        │                     │
+        └──────────┬──────────┘
+                   │
+            ┌──────▼──────┐
+            │ nonconver-  │
+            │ gence       │
+            └──────┬──────┘
+                   │
+        ┌──────────┴──────────┐
+        │                     │
+   ┌────▼────┐           ┌────▼────┐
+   │ tension │           │ inhibit │
+   │         │           │ ion     │
+   └────┬────┘           └────┬────┘
+        │                     │
+        └──────────┬──────────┘
+                   │
+            ┌──────▼──────┐
+            │ attractors  │
+            └──────┬──────┘
+                   │
+            ┌──────▼──────┐
+            │ probe       │
+            │ threshold   │
+            └─────────────┘
+```
+---
+
+context establishes a non task cognitive field  
+density and heterogeneity load the field with competing structures  
+nonconvergence prevents early stabilization  
+tension and inhibition resist cleanup and explanation  
+attractors guide movement without goals  
+probe holds attention at the edge of concept formation  
+
+The combined effect is delayed ontological commitment and sustained process level sense making.
+
+---
+
 ## motivation
 
 Large language models are optimized to be helpful clear and decisive.  
