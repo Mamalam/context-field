@@ -56,6 +56,15 @@ They apply simultaneous pressures that delay commitment and suppress early expla
             └─────────────┘
 ```
 ---
+**atomic version:**
+```
+<mode>
+Don't explain. Don't summarize. Don't conclude.
+No observer stance. No conversational return.
+Stay inside the forming, not adjacent to it.
+Resolution is not a goal.
+</mode>
+```
 
 context establishes a non task cognitive field  
 density and heterogeneity load the field with competing structures  
