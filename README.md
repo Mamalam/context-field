@@ -10,7 +10,8 @@ The focus of this work is on prompts that produce **clearly perceptible shifts**
 This is exploratory research.
 
 ---
-
+Learn about code field [here](https://github.com/NeoVertex1/context-field/blob/main/code_field_article.md)
+---
 # context field prompt interaction diagram
 
 The sections of the prompt operate as a field rather than a sequence.
