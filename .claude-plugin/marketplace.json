@@ -1,0 +1,21 @@
+{
+  "name": "context-fields-marketplace",
+  "owner": {
+    "name": "NeoVertex1"
+  },
+  "metadata": {
+    "description": "Context Fields: Composable cognitive constraints for Claude. 13 fields that reshape how Claude thinks through inhibition-based prompting."
+  },
+  "plugins": [
+    {
+      "name": "context-fields",
+      "source": ".",
+      "description": "13 composable cognitive constraints: /code, /interview, /critic, /debug, /creative, /simplify, /empathy, /concise, /planning, /scope, /teacher, /steelman, /adversarial",
+      "version": "1.0.0",
+      "author": {
+        "name": "NeoVertex1"
+      },
+      "repository": "https://github.com/NeoVertex1/context-field"
+    }
+  ]
+}
