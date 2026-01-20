@@ -1,7 +1,7 @@
 {
   "name": "context-fields",
-  "version": "1.0.1",
-  "description": "Composable cognitive constraints that reshape how Claude thinks. 13 fields for different cognitive modes: /code, /interview, /critic, /debug, /creative, and more.",
+  "version": "2.0.0",
+  "description": "21 composable cognitive constraints that reshape how Claude thinks through inhibition-based prompting. Core fields, anti-fields, and a field generator.",
   "author": {
     "name": "NeoVertex1"
   },
@@ -12,7 +12,8 @@
     "prompt-engineering",
     "cognitive-constraints",
     "inhibition-prompting",
-    "composable-prompts"
+    "composable-prompts",
+    "context-fields"
   ],
   "hooks": "./hooks/hooks.json"
 }
